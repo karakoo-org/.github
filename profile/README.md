@@ -31,5 +31,6 @@ We are always happy to talk about new projects, work together on open-source, or
 
 * **Website:** [karakoo.de](https://karakoo.de)
 * **Schedule a Call:** [Let’s Talk About Your Project](https://karakoo.de/#contact)
-  Let's build something great together.
+  
+Let's build something great together.
 </p>
